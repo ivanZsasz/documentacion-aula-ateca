@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Configuración de Raspi y Mac mini</title>
-    <link href="https://ivanZsasz.github.io/documentacion-aula-ateca/feed.xml" rel="self" />
-    <link href="https://ivanZsasz.github.io/documentacion-aula-ateca" />
+    <link href="https://ivanzsasz.github.io/documentacion-aula-ateca/feed.xml" rel="self" />
+    <link href="https://ivanzsasz.github.io/documentacion-aula-ateca" />
     <updated>2025-11-24T23:18:06+01:00</updated>
     <author>
         <name>Tadeo</name>
     </author>
-    <id>https://ivanZsasz.github.io/documentacion-aula-ateca</id>
+    <id>https://ivanzsasz.github.io/documentacion-aula-ateca</id>
 
     <entry>
         <title>Documentacion de configuración inicial de Raspi y Mac Mini</title>
         <author>
             <name>Tadeo</name>
         </author>
-        <link href="https://ivanZsasz.github.io/documentacion-aula-ateca/documentacion-de-configuracion-inicial-de-raspi-y-mac-mini.html"/>
-        <id>https://ivanZsasz.github.io/documentacion-aula-ateca/documentacion-de-configuracion-inicial-de-raspi-y-mac-mini.html</id>
+        <link href="https://ivanzsasz.github.io/documentacion-aula-ateca/documentacion-de-configuracion-inicial-de-raspi-y-mac-mini.html"/>
+        <id>https://ivanzsasz.github.io/documentacion-aula-ateca/documentacion-de-configuracion-inicial-de-raspi-y-mac-mini.html</id>
 
         <updated>2025-11-24T20:28:15+01:00</updated>
             <summary>
@@ -42,7 +42,7 @@
 <h2 id="objetivo">1. Objetivo del Despliegue</h2>
 <p>El presente documento detalla el procedimiento técnico para la configuración inicial y aprovisionamiento de los dispositivos <strong>Raspberry Pi</strong> destinados al <strong>Aula ATECA</strong>. El objetivo es estandarizar el entorno de trabajo bajo las especificaciones del centro.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p> </p>
 <hr>
@@ -83,8 +83,8 @@
 </tbody>
 </table>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57-2.jpg" data-size="1599x899"><img loading="lazy" src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-4.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-4-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57-2.jpg" data-size="1599x899"><img loading="lazy" src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-57-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-4.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-4-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <h3 id="wifi">2.1 Configuración de Red (WLAN)</h3>
 <p>Para la conexión a la red inalámbrica del aula, se han inyectado las siguientes credenciales:</p>
@@ -94,8 +94,8 @@
 <li><strong>Country Code:</strong> ES</li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-2.jpg" data-size="1599x899"><img loading="lazy" src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-3.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-3-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-2.jpg" data-size="1599x899"><img loading="lazy" src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-3.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-58-3-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <hr>
 <h2 id="instalacion">3. Procedimiento de Instalación (Imager)</h2>
@@ -109,12 +109,12 @@
 <li>Configuración de credenciales Wi-Fi y zona horaria local (Madrid).</li>
 </ol>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-3.jpg" data-size="1599x899"><img loading="lazy" src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-3-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-3.jpg" data-size="1599x899"><img loading="lazy" src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/gallery/PHOTO-2025-11-24-20-11-59-3-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <hr>
 <h2 id="final">4. Vista final</h2>
-<figure class="post__image"><img loading="lazy"  src="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/PHOTO-2025-11-24-20-12-00-2.jpg" alt="" width="1599" height="899" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-xs.jpg 640w ,https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-sm.jpg 768w ,https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-md.jpg 1024w ,https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-lg.jpg 1366w ,https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-xl.jpg 1600w ,https://ivanZsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/PHOTO-2025-11-24-20-12-00-2.jpg" alt="" width="1599" height="899" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-xs.jpg 640w ,https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-sm.jpg 768w ,https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-md.jpg 1024w ,https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-lg.jpg 1366w ,https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-xl.jpg 1600w ,https://ivanzsasz.github.io/documentacion-aula-ateca/media/posts/1/responsive/PHOTO-2025-11-24-20-12-00-2-2xl.jpg 1920w"></figure>
 </article>
             ]]>
         </content>
