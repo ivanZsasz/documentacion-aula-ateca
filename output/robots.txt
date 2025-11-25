@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ivanZsasz.github.io/documentacion-aula-ateca/sitemap.xml
